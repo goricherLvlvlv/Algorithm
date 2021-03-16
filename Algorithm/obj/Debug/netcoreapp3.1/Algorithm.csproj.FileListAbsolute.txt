@@ -1,0 +1,13 @@
+E:\Projects\Goricher\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+E:\Projects\Goricher\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+E:\Projects\Goricher\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+E:\Projects\Goricher\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+E:\Projects\Goricher\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+E:\Projects\Goricher\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+E:\Projects\Goricher\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csprojAssemblyReference.cache
+E:\Projects\Goricher\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+E:\Projects\Goricher\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+E:\Projects\Goricher\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+E:\Projects\Goricher\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+E:\Projects\Goricher\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+E:\Projects\Goricher\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
